@@ -1,8 +1,8 @@
 This project was created for Professor Matt Miller’s Programming for Cultural Heritage course at the Pratt Institute, School of Information in Spring 2021.
 
-The two initial datasets are from the Landmarks Preservation Commission, via NYC Open Data:
-<br>https://data.cityofnewyork.us/Housing-Development/Individual-Landmark-Sites/ts56-fkf5
-<br>https://data.cityofnewyork.us/Housing-Development/LPC-Individual-Landmark-and-Historic-District-Buil/7mgd-s57w
+Two initial datasets from the Landmarks Preservation Commission, via NYC Open Data, need to be downloaded for this project:
+<br><b>LPC Individual Landmarks</b>: https://data.cityofnewyork.us/Housing-Development/Individual-Landmark-Sites/ts56-fkf5
+<br><b>LPC Historic Buildings Database</b>: https://data.cityofnewyork.us/Housing-Development/LPC-Individual-Landmark-and-Historic-District-Buil/7mgd-s57w
 
 (The files used for this project were last updated on April 14, 2021.)
 
